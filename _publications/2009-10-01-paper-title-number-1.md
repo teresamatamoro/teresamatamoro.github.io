@@ -1,6 +1,6 @@
 ---
 title: "Euclid Quick Data Release (Q1): XX. The active galaxies of Euclid."
-collection: First Author Publications
+collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2026-06-04
