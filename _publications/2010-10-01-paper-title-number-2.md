@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Investigating the complex absorbers of Mrk 766 with XMM-Newton"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2025-01-13
+venue: 'Astronomy & Astrophysics'
+paperurl: 'https://www.aanda.org/articles/aa/full_html/2025/04/aa51710-24/aa51710-24.html'
+citation: 'Matamoro Zatarain, T., Costantini, E., Jur´aˇnov´a, A., & Rogantini, D. 2025, A&A, 696, A50,'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Aims. We examine the high energy resolution X-ray spectrum of the narrow-line Seyfert 1 galaxy Mrk 766 using 4 observations taken with XMM-Newton in 2005, to investigate the properties of the complex ionised absorber / emitter along the line of sight, as well as absorption by dust intrinsic to the source.
+Methods. We make use of the high-energy resolution RGS spectrum to infer the properties of the intervening matter. We also use the spectrum obtained by EPIC-pn and the photometric measurements of OM to obtain the spectral energy distribution of the source, necessary for the photoionisation modelling of the ionised outflow. 
+Results. The warm absorber in Mrk 766 consists of two phases of photoionisation. In addition to these two warm absorber components with logξ∼2.15 and logξ∼−0.58, we find evidence of absorption by a collisionally ionised component (T∼51 eV). We discuss the implication of this additional component in light of theoretical predictions. Moreover, we detect signs of absorption by a dusty medium with Ndust∼7.29×10 $^{16}$ cm $^{−2}$. Finally the relatively weak emission features in the spectrum seem to be unrelated to the absorbers and probably originated by an out-of sight-line ionised plasma.
