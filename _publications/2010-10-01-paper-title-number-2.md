@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2025-01-13
+excerpt: ''
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2025/04/aa51710-24/aa51710-24.html'
 citation: 'Matamoro Zatarain, T., Costantini, E., Jur´aˇnov´a, A., & Rogantini, D. 2025, A&A, 696, A50,'
