@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2026-06-04
+excerpt: ''
 venue: 'Astronomy and Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2026/07/aa54619-25/aa54619-25.html'
 citation: 'Euclid Collaboration: Matamoro Zatarain T., Fotopoulou S., Ricci F., et al., 2025, A&A, 711, A20 (Euclid Q1 SI).'
