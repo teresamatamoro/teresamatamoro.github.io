@@ -15,7 +15,7 @@ Education
   * _Research Focus: Studying the co-evolution of super-massive black holes and their host galaxies in the large survey era._
   * _Supervisor: [Dr Sotiria Fotopoulout](https://www.sotiriafotopoulou.com)._
 * **MSc Astronomy and Astrophysics**, Anton Pannekoek Institute for Astronomy, University of Amsterdam (Sep. 2021 – July 2023).
-  * _MPhys Project: Investigating the complex absorbers of Mrk766._
+  * _MSc Project: Investigating the complex absorbers of Mrk766._
     * Supervisor: [Dr. Elisa Costantini](https://orcid.org/0000-0001-8470-749X)._
 * **BSc Mathematics and Physics**, University of Edinburgh (Sep. 2017 – July 2021).
   * _Physics Project: Modelling the X-ray emission of AGN Mrk 110 and its variability._
