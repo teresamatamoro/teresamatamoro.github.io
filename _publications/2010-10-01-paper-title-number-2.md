@@ -1,7 +1,7 @@
 ---
 title: "Investigating the complex absorbers of Mrk 766 with XMM-Newton"
 collection: publications
-category: manuscripts
+category: manuscripts_2
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2025-01-13
 excerpt: ''
