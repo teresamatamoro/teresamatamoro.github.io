@@ -13,7 +13,7 @@ Education
 ======
 * **PhD in Astrophysics**, University of Bristol (Sep. 2023 - Present).
   * _Research Focus: Studying the co-evolution of super-massive black holes and their host galaxies in the large survey era._
-  * Supervisor: [Dr Sotiria Fotopoulou](https://www.sotiriafotopoulou.com).
+    * Supervisor: [Dr Sotiria Fotopoulou](https://www.sotiriafotopoulou.com).
 * **MSc Astronomy and Astrophysics**, Anton Pannekoek Institute for Astronomy, University of Amsterdam (Sep. 2021 – July 2023).
   * _MSc Project: Investigating the complex absorbers of Mrk766._
     * Supervisor: [Dr. Elisa Costantini](https://orcid.org/0000-0001-8470-749X).
