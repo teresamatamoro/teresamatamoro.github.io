@@ -33,3 +33,16 @@ Research/Professional Experience
 * **Intern**, [SRON](https://www.sron.nl/en/), (Leiden, June - Oct. 2020)
   * _Focus: X-ray modelling of Mrk110._
     * Supervisor: [Dr. Elisa Costantini](https://orcid.org/0000-0001-8470-749X).
+
+Grants, Scholarships, and Awards
+======
+* **Peter Bye Travel Bursary**, University of Bristol (May 2026).
+  * _Competitively awarded to fund conference travel._
+* **Euclid UK Travel Grant**, Euclid Consortium UK (May 2025).
+  * _Awarded awarded to fund conference travel._
+* **Euclid UK Travel Grant**, Euclid Consortium UK (Feb 2025).
+  * _Awarded awarded to fund conference travel._
+* **Long-Term Attachment Funding**, EPSRC/UKRI (Dec. 2025).
+  * _Competitively awarded to fund long term research visits to different research institutes._
+* **ESA Conference Student Sponsorship**, European Space Agency Academy (March 2025).
+  * _Awarded awarded to fund conference travel._
