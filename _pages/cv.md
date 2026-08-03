@@ -29,7 +29,7 @@ Research/Professional Experience
   * _Focus: Agentic frameworks for data inspection and analysis._
 * **[LEAPS Summer student](https://leaps.strw.leidenuniv.nl)**, Leiden University and the European Space Agency (June - August 2021).
   * _Focus: Chemical enrichment  in the hot halo of the galaxy M49._
-    * Supervisor: [Dr. Francois Mernier](https://www.francoismernier.com)
+    * Supervisor: [Dr. Francois Mernier](https://www.francoismernier.com).
 * **Intern**, [SRON](https://www.sron.nl/en/), (Leiden, June - Oct. 2020)
   * _Focus: X-ray modelling of Mrk110._
     * Supervisor: [Dr. Elisa Costantini](https://orcid.org/0000-0001-8470-749X).
