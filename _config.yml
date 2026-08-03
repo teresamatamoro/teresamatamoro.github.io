@@ -86,9 +86,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  manuscripts_1:
     title: 'First-Authored Articles' 
-  manuscripts:
+  manuscripts_2:
     title: 'Co-Authored Articles' 
   conferences:
     title: 'Conference Papers'
