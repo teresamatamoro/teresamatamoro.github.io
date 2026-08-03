@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Astrophysics**, University of Bristol (Sep. 2023 - Present).
+  * _Research Focus: Studying the co-evolution of super-massive black holes and their host galaxies in the large survey era._
+  * _Supervisor: [Dr Sotiria Fotopoulout](https://www.sotiriafotopoulou.com)._
+* **MSc Astronomy and Astrophysics**, Anton Pannekoek Institute for Astronomy, University of Amsterdam (Sep. 2021 – July 2023).
+  * _MPhys Project: Investigating the complex absorbers of Mrk766._
+    * Supervisor: [Dr. Elisa Costantini](https://orcid.org/0000-0001-8470-749X)._
+* **BSc Mathematics and Physics**, University of Edinburgh (Sep. 2017 – July 2021).
+  * _Physics Project: Modelling the X-ray emission of AGN Mrk 110 and its variability._
+    * Supervisor: [Prof. Andy Lawrence](https://andyxlastro.me)._
+  * _Mathematics Project: Stable Orbits and the N-body Problem._
+    * Supervisor: [Dr. Maximilian Ruffert](https://scholar.google.com/citations?user=w5jgsUYAAAAJ&hl=en)._
 
-Work experience
+Research/Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **R&D Engineering Intern**, [AMPLYFI](https://www.linkedin.com/company/amplyfi/posts/?feedView=all) (Cardiff, April - Oct. 2025).
+  * Focus: Agentic frameworks for data inspection and analysis._
+* **[LEAPS Summer student](https://leaps.strw.leidenuniv.nl)**, Leiden University and the European Space Agency (June - August 2021).
+  * Focus: Chemical enrichment  in the hot halo of the galaxy M49
+    * Supervisor: [Dr. Francois Mernier](https://www.francoismernier.com)
+* **Intern**,[SRON](), (Leiden, June - Oct. 2020)
+  * Focus: X-ray modelling of Mrk110.
+  * Supervisor: [Dr. Elisa Costantini](https://orcid.org/0000-0001-8470-749X)._
