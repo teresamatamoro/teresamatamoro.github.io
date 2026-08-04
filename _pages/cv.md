@@ -82,11 +82,11 @@ Service and Outreach
 * **European Astronomical Society meeting 2026**, Volunteer, Lausanne (July 2026).
 * **Astronomy on Tap Bristol**, Speaker, Bristol (June 2026).
 *  **University of Bristol Open Day**, Volunteer, Bristol (May 2026).
-*  **DataAid**, Volunteer, Cardiff (May 2026).
+*  **[DataAid](https://cdt-aimlac.org/cdt-data-aid.html)**, Volunteer, Cardiff (May 2026).
 *  **Postgraduate Student Representative**, Committee member, University of Bristol (Sep 2024-June 2025).
 *  **University of Bristol Open Day**, Volunteer, Bristol (June 2024).
 * **Simulation Based Inference for Galaxy Evolution**, LOC, Bristol (May 2024).
-*  **DataAid**, Volunteer, Cardiff (May 2024).
+*  **[DataAid](https://cdt-aimlac.org/cdt-data-aid.html)**, Volunteer, Cardiff (May 2024).
 *   **Girls' Day**, Volunteer, University of Amsterdam (April 2022).
 
 
