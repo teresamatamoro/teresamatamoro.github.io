@@ -46,3 +46,38 @@ Grants, Scholarships, and Awards
   * _Competitively awarded to fund long term research visits to different research institutes._
 * **ESA Conference Student Sponsorship**, European Space Agency Academy (March 2025).
   * _Awarded awarded to fund conference travel._
+
+Invited/Contributed Talks
+======
+
+Seminars
+* **AGN Talk Series** (Jan 2026, Instituto de Astrofísica de Canarias, Spain).
+* **Extragalactic Talk Series** (Dec 2025, National Observatory of Athens, Greece).
+* **Observational Astrophysics Seminars** (Nov 2025, University of Lancaster, United Kingdom).  
+
+Talks
+* **European Astronomical Society 2026 meeting** (Contributed Talk, July 2026).
+* **Simulation Based Inference for Galaxy Evolution** (Contributed Talk, June 2026).
+* **Euclid Consortium meeting 2026** (Invited Talk, May 2026).
+* **Euclid UK meeting 2026** (Invited Talk, April 2026).
+* **Euclid Spain meeting 2026** (Contributed Talk, Feb 2026).
+* **I Congreso Gallego de Investigación en Astronomía y Astrofísica** (Contributed Talk, July 2025).
+* **Euclid Q1 RAS Specialist Discussion Meeting** (Invited Talk, May 2025).
+* **ESLAB Euclid Symposium 2025** (Invited Talk, March 2025).
+* **Cosmology Talks** (Invited Webinar, March 2025).
+* **EUCLID - From Q1 to DR1** (Contributed Talk, Jan 2025).
+* **New Results / NewAthena UK meeting** (Contributed Talk, Sep 2024).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
