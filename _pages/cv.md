@@ -72,7 +72,8 @@ Teaching
 ======
 * **Teaching Support Assistant**, University of Bristol (Feb - April 2024).
   * _PHYS34012 High Energy Astrophysics, 3rd Year undergraduate course - 4hrs/week, ∼ 70-100 students_.
- 
+
+Service and Outreach
 ======
 * **Astronomy on Tap Bristol**, Co-Founder and Committee member, Bristol (2026-).
 * **Photometry and Catalogues Tiger Team**, Deputy Co-lead, Euclid Consortium (2025-).
