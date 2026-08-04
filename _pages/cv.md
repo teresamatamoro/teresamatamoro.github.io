@@ -93,7 +93,7 @@ Service and Outreach
 
 Collaborations
 ======
-* [Euclid Consortium](https://www.euclid-ec.org)): Member.
+* [Euclid Consortium](https://www.euclid-ec.org): Member.
 * [Comunidade Galega de Investigación Astronómica](https://www.uvigo.gal/comunidade-galega-astronomia-astrofisica): Member.
 * [Royal Astronomical Society](https://www.ras.ac.uk): Fellow
 * [LSST UK](https://www.lsst.ac.uk): Junior Associate
